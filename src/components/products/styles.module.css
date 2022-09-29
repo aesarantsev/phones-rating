@@ -1,0 +1,10 @@
+.categorySelectWrapper {
+    max-width: 500px;
+    width: 100%;
+    margin: 30px auto;
+}
+
+.spinnerWrapper {
+    width: fit-content;
+    margin: 0 auto;
+}
